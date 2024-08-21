@@ -1,0 +1,19 @@
+.seletor{
+display: flex;
+overflow-x:auto ;
+gap: 20px;
+
+}
+img{
+    height:200;
+}
+
+
+
+.seletor img{
+    opacity: 0.5;
+}
+
+.seletor img:hover{
+    opacity: 1.0;
+}
